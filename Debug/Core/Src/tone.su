@@ -1,0 +1,9 @@
+../Core/Src/tone.c:40:5:find_mtrk	24	static
+../Core/Src/tone.c:54:6:cut_music	4	static
+../Core/Src/tone.c:59:6:play_music	4	static
+../Core/Src/tone.c:69:6:parse_song_t	32	static
+../Core/Src/tone.c:106:10:hertz_to_duration	24	static
+../Core/Src/tone.c:116:10:get_counter	4	static
+../Core/Src/tone.c:121:9:add_tone	16	static
+../Core/Src/tone.c:134:9:remove_tone	16	static
+../Core/Src/tone.c:142:6:play_tones	8	static

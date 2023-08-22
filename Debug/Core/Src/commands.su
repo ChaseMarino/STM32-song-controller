@@ -1,0 +1,10 @@
+../Core/Src/commands.c:26:6:play_handler	8	static
+../Core/Src/commands.c:34:6:button_play	8	static
+../Core/Src/commands.c:40:6:pause_handler	8	static
+../Core/Src/commands.c:47:6:stop_handler	8	static
+../Core/Src/commands.c:54:6:next_handler	8	static
+../Core/Src/commands.c:67:5:get_flag	4	static
+../Core/Src/commands.c:72:5:get_local	4	static
+../Core/Src/commands.c:79:6:help_handler	8	static
+../Core/Src/commands.c:89:6:toggle_local	8	static
+../Core/Src/commands.c:101:6:local_command	8	static

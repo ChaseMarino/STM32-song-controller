@@ -1,0 +1,2 @@
+../Core/Src/adc_demo.c:16:6:Error_Handler	4	static
+../Core/Src/adc_demo.c:20:6:run_adc_demo	16	static

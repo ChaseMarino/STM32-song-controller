@@ -1,0 +1,6 @@
+../Core/Src/demo.c:27:13:init_systick	4	static
+../Core/Src/demo.c:38:5:get_millis	4	static
+../Core/Src/demo.c:46:6:SysTick_Handler	4	static
+../Core/Src/demo.c:57:5:second_elapsed	4	static
+../Core/Src/demo.c:62:6:reset_second	4	static
+../Core/Src/demo.c:68:6:run_demo	8	static

@@ -1,0 +1,2 @@
+../Core/Src/songParser.c:23:6:parse_meta_events	32	static
+../Core/Src/songParser.c:55:6:parse_song	16	static
